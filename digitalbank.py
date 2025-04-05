@@ -1,8 +1,3 @@
-''' 
-This is a program that asks the user's 
- name and gives a welcome greeting
-
-'''
 
 # Bank System - Customized Version with Withdrawal, Deposit, and Statement Functions
 # Version that interacts with the user through a simple menu
